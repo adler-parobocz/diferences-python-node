@@ -32,4 +32,5 @@ Vai depender de qual a necessidade do projeto a ser usado.
 
 
 https://dev.to/wrrnwng/nodejs-vs-python-3-performance-1ok6
+
 https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/node-python3.html
