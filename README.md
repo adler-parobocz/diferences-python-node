@@ -17,7 +17,7 @@ Quando se trata de adicionar simultaneidade em um servidor com vários núcleos,
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # PYTHON
-Quando escolhemos o Python (Django), confiamos nas suas rotinas que podem suspender a execução da operação antes de atingir o retorno e nas ferramentas como Memcached ou NGINX. Equipados com eles, os aplicativos Python são capazes de lidar com migrações de dados, mesmo com a crescente quantidade de dados. 
+Quando escolhemos o Python, confiamos nas suas rotinas que podem suspender a execução da operação antes de atingir o retorno e nas ferramentas como Memcached ou NGINX. Equipados com eles, os aplicativos Python são capazes de lidar com migrações de dados, mesmo com a crescente quantidade de dados. 
 
 Se a escalabilidade for uma das suas preocupações, o Python não irá decepcioná-lo. Se for suficiente para o Youtube, Pinterest, Reddit e Dropbox, há uma chance de que seja útil - pelo menos no começo.
 
