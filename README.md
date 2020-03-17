@@ -27,4 +27,4 @@ O Python se destaca na área de desenvolvimento de IA. Existem algumas razões p
 # Conclusão
 O NodeJS trabalha muito bem com recursos de memória, quanto o Python trabalha muito bem com recursos de disco.
 Para o Python, está envolvendo todo o campo do desenvolvimento de IA, ML, e também em alguns projetos de desenvolvimento da Web - especialmente aplicativos de áudio/vídeo, aplicativos da Web progressivos ou aplicativos de administração do sistema. Para o Node.js, são principalmente aplicativos em tempo real, aplicativos de streaming, aplicativos de página única e outros aplicativos da web.
-
+Vai depender de qual a necessidade do projeto a ser usado.
