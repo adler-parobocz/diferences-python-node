@@ -1,4 +1,4 @@
-# diferences-python-node, compilado informações pela web
+# diferences-python-node, compilado de informações pela web
 
 # NODEJS
 Não é coincidência que empresas como LinkedIn, Netflix ou Twitter estejam migrando para o Node.js. 
